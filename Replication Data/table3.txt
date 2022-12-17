@@ -1,0 +1,17 @@
+Table III						
+	(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES						
+						
+treated_bk	-0.014	0.006	0.000			
+	(0.005)	(0.004)	(0.015)			
+treated_bk_uptohalf				-0.013		
+				(0.005)		
+treated_bk_overhalf				-0.018		
+				(0.006)		
+treated_bk_notwest_uptohalf					-0.016	-0.030
+					(0.011)	(0.022)
+treated_bk_notwest_overhalf					-0.029	-0.037
+					(0.015)	(0.020)
+						
+Observations	74	74	160	74	295	65
+R-squared	0.561	0.775	0.341	0.567	0.229	0.366
